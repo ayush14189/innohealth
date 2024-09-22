@@ -1,4 +1,4 @@
-# AI-Enhanced Healthcare Diagnostics and Management System
+# INNOHEALTH.AI - AI-Enhanced Healthcare Diagnostics and Management System
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
@@ -83,7 +83,7 @@ Before running the project locally, ensure you have the following installed on y
 ### 1. *Clone the Repository*
 
    ```bash
-   git clone https://github.com/LeoAB03/SIH_INTERNAL_ROUND_1_RISE
+   git clone https://github.com/ayush14189/innohealth
    cd code/healthcare-master
    ```
    
