@@ -17,7 +17,7 @@ This README provides an overview of the project, including team details, relevan
 ## Project Links
 
 - *Internal Presentation:* [Internal Presentation](https://github.com/ayush14189/InnoHealth/blob/main/files/Internal_PPT_RISE.pdf)
-- *Source Code:* [GitHub Repository](/)
+- *Source Code:* [GitHub Repository](https://github.com/ayush14189/innohealth)
 
 # AI-Enhanced Medical Diagnostics System
 
